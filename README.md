@@ -2,9 +2,9 @@
 Simplified Swarm Optimization is a novel population-based stochastic optimization algorithm proposed by [Yeh](http://www.ie.nthu.edu.tw/p/406-1310-111509,r5910.php?Lang=en) in 2009. Its simplicity and efficiency have captured many scholars’ attention and was proved to solve discrete problems efficiently in many studies.
 
 ## Intro
-This repository implements the vanilla Simplify Swarm Optimization in python & C++ with a simple structure for further customized to different forms according to various applications.
+This repository implements the vanilla Simplify Swarm Optimization in Python & C++ with a simple structure for further customized to different forms according to various applications.
 
-* **SSO.py** : A basic implementation of Simplify Swarm Optimization (SSO) in python.
+* **SSO.py** : A basic implementation of Simplify Swarm Optimization (SSO) in Python.
 
 * **SSO_comparison.cpp** : A simple comparison with Particle Swarm Optimization (PSO) in C++.
 
